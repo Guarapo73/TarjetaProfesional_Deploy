@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 570,
+    "left": 0,
+    "width": 1390,
+    "height": 1853,
+    "isRotated": true,
+    "originalWidth": 1390,
+    "originalHeight": 2426
+  },
+  "imagePath": "image-targets/TarjetaNegocios-1_luminance.png",
+  "metadata": null,
+  "name": "TarjetaNegocios-1",
+  "resources": {
+    "originalImage": "TarjetaNegocios-1_original.png",
+    "croppedImage": "TarjetaNegocios-1_cropped.png",
+    "thumbnailImage": "TarjetaNegocios-1_thumbnail.png",
+    "luminanceImage": "TarjetaNegocios-1_luminance.png"
+  },
+  "created": 1786556072708,
+  "updated": 1786556100073
+}
