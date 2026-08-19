@@ -1,7 +1,7 @@
 {
   "type": "PLANAR",
   "properties": {
-    "top": 570,
+    "top": 292,
     "left": 0,
     "width": 1390,
     "height": 1853,
@@ -19,5 +19,5 @@
     "luminanceImage": "TarjetaNegocios-1_luminance.png"
   },
   "created": 1786556072708,
-  "updated": 1786556100073
+  "updated": 1787164198958
 }
